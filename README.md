@@ -142,14 +142,6 @@ the-green-route/
 
 ---
 
-## 🙏 Acknowledgements
-
-- **Örjan Jansson** (WWF) — for feedback that shaped the environmental framing
-- **Joakim Jerkenhag & Dwayne Dixon** (Deloitte) — for insights and mentorship
-- **Nell Näs, Yunfei Yu, Shreyas Sawai** — great people to share the experience with
-- **Deloitte, WWF & AI Sweden** — for building a challenge worth solving
-
----
 
 ## 📄 License
 
